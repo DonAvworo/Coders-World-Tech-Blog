@@ -1,0 +1,10 @@
+to run app
+
+fire up mysql engine
+    - brew services start mysql
+    - mysql -u root -p (password if required)
+    
+
+npm run seed
+
+npm run start
